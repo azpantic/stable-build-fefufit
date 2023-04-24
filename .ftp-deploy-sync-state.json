@@ -1,0 +1,301 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1682274705569,
+    "data": [
+        {
+            "type": "file",
+            "name": ".last_build_id",
+            "size": 32,
+            "hash": "cbf2a783201ddcd2daec618486adce16876dccd3e898629d90f9bd662c9edf68"
+        },
+        {
+            "type": "folder",
+            "name": "assets"
+        },
+        {
+            "type": "folder",
+            "name": "canvaskit"
+        },
+        {
+            "type": "file",
+            "name": "favicon.png",
+            "size": 917,
+            "hash": "7ab2525f4b86b65d3e4c70358a17e5a1aaf6f437f99cbcc046dad73d59bb9015"
+        },
+        {
+            "type": "file",
+            "name": "flutter.js",
+            "size": 14240,
+            "hash": "b706f51b33636a563d519b041919b521c54b58c62f12364a0c3f3cfcb92fd5a3"
+        },
+        {
+            "type": "file",
+            "name": "flutter_service_worker.js",
+            "size": 8614,
+            "hash": "02af283c93ce7ed80ee8e021d7e77e2350f8860fcf096f8080d7bb8ffed22873"
+        },
+        {
+            "type": "folder",
+            "name": "icons"
+        },
+        {
+            "type": "file",
+            "name": "index.html",
+            "size": 2847,
+            "hash": "29f550be7780f4953bae67b5dfc6be7bfa245a2d0cf70dc90bd1375e5f494402"
+        },
+        {
+            "type": "file",
+            "name": "main.dart.js",
+            "size": 3600244,
+            "hash": "818729a9bf3a0ff4a353a51bea220dc862e5cdfc9c688ad324ebdb9409bcb62a"
+        },
+        {
+            "type": "file",
+            "name": "manifest.json",
+            "size": 920,
+            "hash": "b5d2d932d68fafd7200bb4b3da922726da8ca60320e1ae8ad54d0598cdaf911d"
+        },
+        {
+            "type": "folder",
+            "name": "splash"
+        },
+        {
+            "type": "file",
+            "name": "version.json",
+            "size": 94,
+            "hash": "e0a3e45e15a788e50d970274b9bbdc91ab75e1b3d5d84b66f63613b5479566c1"
+        },
+        {
+            "type": "file",
+            "name": "assets/AssetManifest.bin",
+            "size": 157,
+            "hash": "e4664224592369b1df5b883276da3484f5d9b8d95bc7ed46a54f1ba471ffaf31"
+        },
+        {
+            "type": "file",
+            "name": "assets/AssetManifest.json",
+            "size": 311,
+            "hash": "cc502dd4ecb4e672f1dfd024ef166ac55be6c84a22d074b890220b97b8ffda00"
+        },
+        {
+            "type": "file",
+            "name": "assets/FontManifest.json",
+            "size": 82,
+            "hash": "28b1eb2b3d2e1ad60b8c8b0f9100b1ccbf492f7fa97f5bebb51ea97e73926e7d"
+        },
+        {
+            "type": "file",
+            "name": "assets/NOTICES",
+            "size": 1746132,
+            "hash": "207577b387599100c5751539927bc99be0e5fb9f6d24969a212df434beaa2ed5"
+        },
+        {
+            "type": "folder",
+            "name": "assets/fonts"
+        },
+        {
+            "type": "folder",
+            "name": "assets/lib"
+        },
+        {
+            "type": "folder",
+            "name": "assets/packages"
+        },
+        {
+            "type": "folder",
+            "name": "assets/shaders"
+        },
+        {
+            "type": "file",
+            "name": "canvaskit/canvaskit.js",
+            "size": 95983,
+            "hash": "cea6a73f9cc966b3b0f7a0c28e9cb92a0b6e72f318f73bdc1f35c09119eb27e3"
+        },
+        {
+            "type": "file",
+            "name": "canvaskit/canvaskit.wasm",
+            "size": 6753269,
+            "hash": "67677a36a9970fc160cc21a99ee6828a1183374c9997bd7aee0235831bb866a5"
+        },
+        {
+            "type": "folder",
+            "name": "canvaskit/chromium"
+        },
+        {
+            "type": "file",
+            "name": "canvaskit/skwasm.js",
+            "size": 64160,
+            "hash": "8f1f961b7253cbfc2af826bc23124923e94c076940d1cb713b14cd71e797f3e8"
+        },
+        {
+            "type": "file",
+            "name": "canvaskit/skwasm.wasm",
+            "size": 4452168,
+            "hash": "26cca4fbeae8f3a8b8f0cb6bf9d25804248685707dbf7ea9671f527c98bd2208"
+        },
+        {
+            "type": "file",
+            "name": "canvaskit/skwasm.worker.js",
+            "size": 2744,
+            "hash": "ba0e6fe37dd64119505ca9350ddc369cc08e68b34bd9eb49695f19084999842c"
+        },
+        {
+            "type": "file",
+            "name": "icons/Icon-192.png",
+            "size": 5292,
+            "hash": "3dce99077602f70421c1c6b2a240bc9b83d64d86681d45f2154143310c980be3"
+        },
+        {
+            "type": "file",
+            "name": "icons/Icon-512.png",
+            "size": 8252,
+            "hash": "baccb205ae45f0b421be1657259b4943ac40c95094ab877f3bcbe12cd544dcbe"
+        },
+        {
+            "type": "file",
+            "name": "icons/Icon-maskable-192.png",
+            "size": 5594,
+            "hash": "d2c842e22a9f4ec9d996b23373a905c88d9a203b220c5c151885ad621f974b5c"
+        },
+        {
+            "type": "file",
+            "name": "icons/Icon-maskable-512.png",
+            "size": 20998,
+            "hash": "6aee06cdcab6b2aef74b1734c4778f4421d2da100b0ff9e52b21b55240202929"
+        },
+        {
+            "type": "folder",
+            "name": "splash/img"
+        },
+        {
+            "type": "file",
+            "name": "splash/splash.js",
+            "size": 188,
+            "hash": "aaea9164dc05c184119dd1fda515bec4914732ee73c3b529cb096e7c106bd0e0"
+        },
+        {
+            "type": "file",
+            "name": "splash/style.css",
+            "size": 835,
+            "hash": "618f02f1677294a1ca1d6a48f0b5ff2f05f92d4dfceaf5dbb4db873552b705da"
+        },
+        {
+            "type": "file",
+            "name": "assets/fonts/MaterialIcons-Regular.otf",
+            "size": 12788,
+            "hash": "b8b7a2c572a172890abda0d30108ecbbe6fce7510a1baceb9b4eabf147351c03"
+        },
+        {
+            "type": "folder",
+            "name": "assets/lib/assets"
+        },
+        {
+            "type": "folder",
+            "name": "assets/packages/flutter_dropzone_web"
+        },
+        {
+            "type": "file",
+            "name": "assets/shaders/ink_sparkle.frag",
+            "size": 9242,
+            "hash": "c8f48371faf2b471ec09299b09f3d5448bd67457ad877a82756430fa7150577e"
+        },
+        {
+            "type": "file",
+            "name": "canvaskit/chromium/canvaskit.js",
+            "size": 95628,
+            "hash": "33e27a68e1883e4728769483343b7c8891e79efe5f66d1192f18ecb4c7966038"
+        },
+        {
+            "type": "file",
+            "name": "canvaskit/chromium/canvaskit.wasm",
+            "size": 5354278,
+            "hash": "3fe1565aa32b49777e855223b8d5720b782d8631cd181cf719437d91aa6a5d25"
+        },
+        {
+            "type": "file",
+            "name": "splash/img/dark-1x.png",
+            "size": 2706,
+            "hash": "68005beb388eab111489f581812e12c79730792943c00e57e5bc0c3fc84bf695"
+        },
+        {
+            "type": "file",
+            "name": "splash/img/dark-2x.png",
+            "size": 5995,
+            "hash": "6f9e23159171be80998d8b1478f84891c68ec152657ebfc02ad53cf51ca424f2"
+        },
+        {
+            "type": "file",
+            "name": "splash/img/dark-3x.png",
+            "size": 10315,
+            "hash": "1f1f70bec9e5cdbd54e4d77c5037c804a36ccf47aaec1ff15d438d4d1a5fb02d"
+        },
+        {
+            "type": "file",
+            "name": "splash/img/dark-4x.png",
+            "size": 15483,
+            "hash": "9823861015fb08198e7f36aff3f733768e9267dfdbd51c874e516b7c718c10c2"
+        },
+        {
+            "type": "file",
+            "name": "splash/img/light-1x.png",
+            "size": 2706,
+            "hash": "68005beb388eab111489f581812e12c79730792943c00e57e5bc0c3fc84bf695"
+        },
+        {
+            "type": "file",
+            "name": "splash/img/light-2x.png",
+            "size": 5995,
+            "hash": "6f9e23159171be80998d8b1478f84891c68ec152657ebfc02ad53cf51ca424f2"
+        },
+        {
+            "type": "file",
+            "name": "splash/img/light-3x.png",
+            "size": 10315,
+            "hash": "1f1f70bec9e5cdbd54e4d77c5037c804a36ccf47aaec1ff15d438d4d1a5fb02d"
+        },
+        {
+            "type": "file",
+            "name": "splash/img/light-4x.png",
+            "size": 15483,
+            "hash": "9823861015fb08198e7f36aff3f733768e9267dfdbd51c874e516b7c718c10c2"
+        },
+        {
+            "type": "folder",
+            "name": "assets/lib/assets/icons"
+        },
+        {
+            "type": "folder",
+            "name": "assets/lib/assets/images"
+        },
+        {
+            "type": "folder",
+            "name": "assets/packages/flutter_dropzone_web/assets"
+        },
+        {
+            "type": "file",
+            "name": "assets/lib/assets/icons/logo.svg",
+            "size": 3826,
+            "hash": "0e41efd2b9a305973e8f0d3155ecb2fad47d41a0bdda4f052cb7a521835a29ba"
+        },
+        {
+            "type": "file",
+            "name": "assets/lib/assets/images/background.png",
+            "size": 83169,
+            "hash": "0c26cad18786c8ad8cfa84cdeb7b5df3edfdf8894d32a7859d3c85e2b836e868"
+        },
+        {
+            "type": "file",
+            "name": "assets/lib/assets/images/logo.png",
+            "size": 13807,
+            "hash": "d79350ea294a8b8649eac6a4891782781898078329e40ce8449910e45202a493"
+        },
+        {
+            "type": "file",
+            "name": "assets/packages/flutter_dropzone_web/assets/flutter_dropzone.js",
+            "size": 3074,
+            "hash": "fe750bd1312c4c9c213b4bb7811263965ad9154aa53f7c5fa964d419cc7bf2b1"
+        }
+    ]
+}
