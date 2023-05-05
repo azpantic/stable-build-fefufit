@@ -58263,7 +58263,7 @@ p=$.E
 if(p==null)p=$.E=B.l
 n=A
 s=2
-return A.Y(q.p7("http://188.127.225.179:600/api/timetable/event/admin/add",A.aJ(["name",a,"begin",b,"end",c,"service_id",1,"building_id",e,"capacity",d,"area_id",o,"coach_id",f,"token",p.am(0,null,t.h).id],t.N,t.X),t.z),$async$z1)
+return A.Y(q.p7("https://fefufit.dvfu.ru/api/api/timetable/event/admin/add",A.aJ(["name",a,"begin",b,"end",c,"service_id",1,"building_id",e,"capacity",d,"area_id",o,"coach_id",f,"token",p.am(0,null,t.h).id],t.N,t.X),t.z),$async$z1)
 case 2:n.cQ(h.r)
 return A.T(null,r)}})
 return A.U($async$z1,r)},
@@ -58273,7 +58273,7 @@ var $async$Hy=A.Q(function(b,c){if(b===1)return A.S(c,r)
 while(true)switch(s){case 0:p=t.z
 o=A
 s=2
-return A.Y(q.p7("http://188.127.225.179:600/api/import/excel",A.bg6(A.aJ(["file",a],t.N,p)),p),$async$Hy)
+return A.Y(q.p7("https://fefufit.dvfu.ru/api/api/import/excel",A.bg6(A.aJ(["file",a],t.N,p)),p),$async$Hy)
 case 2:o.cQ(c.r)
 return A.T(null,r)}})
 return A.U($async$Hy,r)},
@@ -58285,7 +58285,7 @@ if(p==null)p=$.E=B.l
 o=t.N
 n=J
 s=2
-return A.Y(q.p7("http://188.127.225.179:600/api/stuff/building/view_all",A.aJ(["token",p.am(0,null,t.h).id],o,o),t.z),$async$FE)
+return A.Y(q.p7("https://fefufit.dvfu.ru/api/api/stuff/building/view_all",A.aJ(["token",p.am(0,null,t.h).id],o,o),t.z),$async$FE)
 case 2:o=n.iT(b.r,new A.ai0(),t.a)
 o=A.ap(o,!0,A.j(o).h("br.E"))
 p=q.go
@@ -58302,7 +58302,7 @@ if(p==null)p=$.E=B.l
 o=t.N
 n=J
 s=2
-return A.Y(q.p7("http://188.127.225.179:600/api/stuff/coach/view_all",A.aJ(["token",p.am(0,null,t.h).id],o,o),t.z),$async$FF)
+return A.Y(q.p7("https://fefufit.dvfu.ru/api/api/stuff/coach/view_all",A.aJ(["token",p.am(0,null,t.h).id],o,o),t.z),$async$FF)
 case 2:o=n.iT(b.r,new A.ai1(),t.a)
 o=A.ap(o,!0,A.j(o).h("br.E"))
 p=q.id
@@ -58329,7 +58329,7 @@ var $async$wz=A.Q(function(c,d){if(c===1)return A.S(d,r)
 while(true)switch(s){case 0:k=t.N
 j=t.z
 s=3
-return A.Y(p.qD("http://188.127.225.179:600/api/auth/login",A.aJ(["email",a,"password",b],k,j),A.aJ(["content-type","application/json"],k,k),j),$async$wz)
+return A.Y(p.qD("https://fefufit.dvfu.ru/api/api/auth/login",A.aJ(["email",a,"password",b],k,j),A.aJ(["content-type","application/json"],k,k),j),$async$wz)
 case 3:i=d
 s=new A.j7(i.c).l3(200,299)?4:5
 break
@@ -58345,7 +58345,7 @@ n=J.co(J.b3(m.i(n,"data"),"qr_token"))
 l.mU().mI(0,l.a,n)
 p.k1=n
 s=6
-return A.Y(p.p7("http://188.127.225.179:600/api/user/user/view_self",A.aJ(["token",p.id],k,k),j),$async$wz)
+return A.Y(p.p7("https://fefufit.dvfu.ru/api/api/user/user/view_self",A.aJ(["token",p.id],k,k),j),$async$wz)
 case 6:i=d
 if(new A.j7(i.c).l3(200,299)){k=i.r
 A.cQ(k)
@@ -58380,7 +58380,7 @@ var $async$xD=A.Q(function(j,k){if(j===1)return A.S(k,r)
 while(true)switch(s){case 0:o=t.N
 n=t.z
 s=3
-return A.Y(p.qD("http://188.127.225.179:600/api/auth/signup",A.aJ(["first_name",a,"second_name",b,"third_name",c,"email",e,"birthdate",g,"gender",f,"status",h,"phone_number",d,"password",i],o,n),A.aJ(["content-type","application/json"],o,o),n),$async$xD)
+return A.Y(p.qD("https://fefufit.dvfu.ru/api/api/auth/signup",A.aJ(["first_name",a,"second_name",b,"third_name",c,"email",e,"birthdate",g,"gender",f,"status",h,"phone_number",d,"password",i],o,n),A.aJ(["content-type","application/json"],o,o),n),$async$xD)
 case 3:m=k
 s=new A.j7(m.c).l3(200,299)?4:5
 break
@@ -58426,7 +58426,7 @@ while(true)switch(s){case 0:m=q.k2
 m.$1(!0)
 p=t.N
 s=2
-return A.Y(q.p7("http://188.127.225.179:600/api/booking/get_next",A.aJ(["token",q.go],p,p),t.z),$async$oH)
+return A.Y(q.p7("https://fefufit.dvfu.ru/api/api/booking/get_next",A.aJ(["token",q.go],p,p),t.z),$async$oH)
 case 2:o=b
 p=new A.j7(o.c).l3(200,299)
 n=o.r
@@ -58531,7 +58531,7 @@ if(o==null)o=$.E=B.l
 n=t.N
 m=t.z
 s=3
-return A.Y(p.qD("http://188.127.225.179:600/api/auth/scan_qr",A.aJ(["token",o.am(0,null,t.h).id,"qr_token",a],n,m),A.aJ(["content-type","application/json"],n,n),m),$async$BP)
+return A.Y(p.qD("https://fefufit.dvfu.ru/api/api/auth/scan_qr",A.aJ(["token",o.am(0,null,t.h).id,"qr_token",a],n,m),A.aJ(["content-type","application/json"],n,n),m),$async$BP)
 case 3:l=c
 if(new A.j7(l.c).l3(200,299)){o=l.r
 o.toString
@@ -58550,7 +58550,7 @@ if(o==null)o=$.E=B.l
 n=t.N
 m=t.z
 s=3
-return A.Y(p.qD("http://188.127.225.179:600/api/user/admin/view_one",A.aJ(["user_id",a,"token",o.am(0,null,t.h).id],n,m),A.aJ(["content-type","application/json"],n,n),m),$async$BM)
+return A.Y(p.qD("https://fefufit.dvfu.ru/api/api/user/admin/view_one",A.aJ(["user_id",a,"token",o.am(0,null,t.h).id],n,m),A.aJ(["content-type","application/json"],n,n),m),$async$BM)
 case 3:l=c
 if(new A.j7(l.c).l3(200,299)){o=new A.yU()
 n=l.r
@@ -58574,7 +58574,7 @@ if(o==null)o=$.E=B.l
 n=t.N
 m=t.z
 s=3
-return A.Y(p.qD("http://188.127.225.179:600/api/qr/get_booking",A.aJ(["user_id",a,"token",o.am(0,null,t.h).id],n,m),A.aJ(["content-type","application/json"],n,n),m),$async$nG)
+return A.Y(p.qD("https://fefufit.dvfu.ru/api/api/qr/get_booking",A.aJ(["user_id",a,"token",o.am(0,null,t.h).id],n,m),A.aJ(["content-type","application/json"],n,n),m),$async$nG)
 case 3:l=c
 if(new A.j7(l.c).l3(200,299)){o=l.r
 o.toString
@@ -58593,7 +58593,7 @@ if(o==null)o=$.E=B.l
 n=t.N
 m=t.z
 s=3
-return A.Y(p.qD("http://188.127.225.179:600/api/qr/confirm_booking",A.aJ(["user_id",a,"event_id",b,"token",o.am(0,null,t.h).id],n,m),A.aJ(["content-type","application/json"],n,n),m),$async$om)
+return A.Y(p.qD("https://fefufit.dvfu.ru/api/api/qr/confirm_booking",A.aJ(["user_id",a,"event_id",b,"token",o.am(0,null,t.h).id],n,m),A.aJ(["content-type","application/json"],n,n),m),$async$om)
 case 3:l=d
 if(new A.j7(l.c).l3(200,299)){q=J.b3(l.r,"msg")
 s=1
@@ -58610,7 +58610,7 @@ if(o==null)o=$.E=B.l
 n=t.N
 m=t.z
 s=3
-return A.Y(p.qD("http://188.127.225.179:600/api/qr/unconfirm_booking",A.aJ(["user_id",a,"event_id",b,"token",o.am(0,null,t.h).id],n,m),A.aJ(["content-type","application/json"],n,n),m),$async$on)
+return A.Y(p.qD("https://fefufit.dvfu.ru/api/api/qr/unconfirm_booking",A.aJ(["user_id",a,"event_id",b,"token",o.am(0,null,t.h).id],n,m),A.aJ(["content-type","application/json"],n,n),m),$async$on)
 case 3:l=d
 if(new A.j7(l.c).l3(200,299)){q=J.b3(l.r,"msg")
 s=1
@@ -58683,7 +58683,7 @@ n=$.E
 if(n==null)n=$.E=B.l
 m=t.z
 s=2
-return A.Y(o.p7("http://188.127.225.179:600/api/timetable/booking/user/add",A.aJ(["event_id",a,"token",n.am(0,null,t.h).id],t.N,m),m),$async$xv)
+return A.Y(o.p7("https://fefufit.dvfu.ru/api/api/timetable/booking/user/add",A.aJ(["event_id",a,"token",n.am(0,null,t.h).id],t.N,m),m),$async$xv)
 case 2:l=c
 s=new A.j7(l.c).l3(200,299)?3:5
 break
@@ -58707,7 +58707,7 @@ n=$.E
 if(n==null)n=$.E=B.l
 m=t.z
 s=2
-return A.Y(o.p7("http://188.127.225.179:600/api/timetable/booking/user/cancel",A.aJ(["event_id",a,"token",n.am(0,null,t.h).id],t.N,m),m),$async$zG)
+return A.Y(o.p7("https://fefufit.dvfu.ru/api/api/timetable/booking/user/cancel",A.aJ(["event_id",a,"token",n.am(0,null,t.h).id],t.N,m),m),$async$zG)
 case 2:l=c
 s=new A.j7(l.c).l3(200,299)?3:5
 break
@@ -58730,7 +58730,7 @@ o=$.E
 if(o==null)o=$.E=B.l
 n=t.N
 s=2
-return A.Y(p.p7("http://188.127.225.179:600/api/timetable/event/user/view_all",A.aJ(["token",o.am(0,null,t.h).id],n,n),t.z),$async$mQ)
+return A.Y(p.p7("https://fefufit.dvfu.ru/api/api/timetable/event/user/view_all",A.aJ(["token",o.am(0,null,t.h).id],n,n),t.z),$async$mQ)
 case 2:m=b
 p=new A.j7(m.c).l3(200,299)
 o=m.r
@@ -59081,7 +59081,7 @@ $S:154}
 A.Qs.prototype={
 C(a){var s=null,r=$.c3(),q=t.T,p=t.A,o=A.af(A.aZ(r,q,p).gjR().grI(),s,s,s,s,s,s,s,s),n=t.l,m=A.L(a,s,n).w.a.a>600?A.eR(B.tJ,s,s,s):A.ez(s,A.eR(B.jb,s,s,s),s,new A.ai9(a),s,s),l=t.p,k=A.a([A.ez(s,A.eR(B.tP,s,s,s),s,new A.aia(),s,s)],l)
 n=A.L(a,s,n).w
-return A.ka(A.lf(k,s,!0,s,n.gdR(n)===B.ap?new A.H_(new A.E9(s),new A.C(1/0,3),s):s,1,!0,s,s,!1,s,!0,s,s,m,s,!0,s,s,s,s,s,o,s,s,s,1,s),s,A.bq(A.a([new A.a8(B.a2,A.mM(!1,A.af("\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u0437\u0430\u043d\u044f\u0442\u0438\u0435",s,s,s,s,s,s,s,s),B.h,s,s,s,s,s,new A.aib(this,a),s,s),s),new A.a8(B.a2,A.bl(A.a([new A.Ei("http://188.127.225.179:600/api/export/excel",A.aZ(r,q,p).grI().ga2R(),s)],l),B.n,B.p,B.m,s),s),new A.a8(B.a2,A.mM(!1,A.af("\u0417\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044c \u0440\u0430\u0441\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435",s,s,s,s,s,s,s,s),B.h,s,s,s,s,s,new A.aic(this,a),s,s),s)],l),B.aL,B.p,B.m),s,s)}}
+return A.ka(A.lf(k,s,!0,s,n.gdR(n)===B.ap?new A.H_(new A.E9(s),new A.C(1/0,3),s):s,1,!0,s,s,!1,s,!0,s,s,m,s,!0,s,s,s,s,s,o,s,s,s,1,s),s,A.bq(A.a([new A.a8(B.a2,A.mM(!1,A.af("\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u0437\u0430\u043d\u044f\u0442\u0438\u0435",s,s,s,s,s,s,s,s),B.h,s,s,s,s,s,new A.aib(this,a),s,s),s),new A.a8(B.a2,A.bl(A.a([new A.Ei("https://fefufit.dvfu.ru/api/api/export/excel",A.aZ(r,q,p).grI().ga2R(),s)],l),B.n,B.p,B.m,s),s),new A.a8(B.a2,A.mM(!1,A.af("\u0417\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044c \u0440\u0430\u0441\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435",s,s,s,s,s,s,s,s),B.h,s,s,s,s,s,new A.aic(this,a),s,s),s)],l),B.aL,B.p,B.m),s,s)}}
 A.ai9.prototype={
 $0(){var s=this.a.O(t.b).x.d
 s===$&&A.b()
